@@ -1,0 +1,196 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.t-red {
+  color: red;
+}
+
+.t-white {
+  color: white;
+}
+
+.t-green {
+  color: green;
+}
+
+.t-black {
+  color: black;
+}
+
+.t-size-xl {
+  font-size: x-large;
+}
+
+.t-size-xxl {
+  font-size: xx-large;
+}
+
+.t-size-xs {
+  font-size: x-small;
+}
+
+.t-size-xxs {
+  font-size: xx-small;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.row-r {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.column-r {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.justify-around {
+  display: flex;
+  justify-content: space-around;
+}
+
+.justify-evenly {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.justify-between {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.align-center {
+  display: flex;
+  align-items: center;
+}
+
+.justify-center {
+  display: flex;
+  justify-items: center;
+}
+
+.bord-black {
+  border: 2px solid black;
+}
+
+.bord-white {
+  border: 2px solid white;
+}
+
+.bord-red {
+  border: 2px solid red;
+}
+
+.rad-3 {
+  border-radius: 3px;
+}
+
+.rad-5 {
+  border-radius: 5px;
+}
+
+.rad-7 {
+  border-radius: 7px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.pdg-20 {
+  padding: 20px;
+}
+
+.pdg-50 {
+  padding: 50px;
+}
+
+.pdg-70 {
+  padding: 70px;
+}
+
+.pdg-btm-20 {
+  padding-bottom: 20px;
+}
+
+.pdg-btm-50 {
+  padding-bottom: 50px;
+}
+
+.pdg-btm-70 {
+  padding-bottom: 70px;
+}
+
+.pdg-top-20 {
+  padding-top: 20px;
+}
+
+.pdg-top-50 {
+  padding-top: 50px;
+}
+
+.pdg-top-70 {
+  padding-top: 70px;
+}
+
+.mrgn-20 {
+  margin: 20px;
+}
+
+.mrgn-50 {
+  margin: 50px;
+}
+
+.mrgn-70 {
+  margin: 70px;
+}
+
+.mrgn-btm-20 {
+  margin-bottom: 20px;
+}
+
+.mrgn-btm-50 {
+  margin-bottom: 50px;
+}
+
+.mrgn-btm-70 {
+  margin-bottom: 70px;
+}
+
+.mrgn-top-20 {
+  margin-top: 20px;
+}
+
+.mrgn-top-50 {
+  margin-top: 50px;
+}
+
+.mrgn-top-70 {
+  margin-top: 70px;
+}
+
+.w-50 {
+  width: 50px;
+}
+
+.w-75 {
+  width: 75px;
+}
+
+.w-150 {
+  width: 150px;
+}
